@@ -16,7 +16,7 @@ For example code and how to use this api, please take a look into `Examples_*.ph
 
 Contribute!
 ===========
-I'm very happy if you open **pull requests** or **issues** to help making this API **more awesome**.
+I will be very happy if you open **pull requests** or **issues** to help making this API **more awesome**.
 
 Installation
 ============
